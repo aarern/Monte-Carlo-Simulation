@@ -8,5 +8,5 @@ The annualized mean returns, the annualized mean volatility (standard deviation)
 
 You can update the code to simulate any public company by updating the ticker, and you can update the price timeline by updating the date range. The historical price data may vary though depending on when the company was listed. Comparing companies may not be correct if their historical price timelines are different.
 
-![image alt](https://github.com/aarern/Monte-Carlo-Simulation/blob/05c610ab02c2402a2d17a33fbdb4c0f0a8593278/sim1.png)
-![image alt](https://github.com/aarern/Monte-Carlo-Simulation/blob/05c610ab02c2402a2d17a33fbdb4c0f0a8593278/sim2.png)
+![image alt](https://github.com/aarern/Monte-Carlo-Simulation/blob/15b9416d3b76e5d42120e4b1b760cb2b71175926/images/sim1.png)
+![image alt](https://github.com/aarern/Monte-Carlo-Simulation/blob/15b9416d3b76e5d42120e4b1b760cb2b71175926/images/sim2.png)
