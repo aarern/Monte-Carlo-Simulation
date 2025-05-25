@@ -7,3 +7,5 @@ The Monte Carlo Simulation models the expected returns of a stock in the future 
 The annualized mean returns, the annualized mean volatility (standard deviation), the mean 5-year price, and the confidence level prices are printed in the terminal.
 
 You can update the code to simulate any public company by updating the ticker, and you can update the price timeline by updating the date range. The historical price data may vary though depending on when the company was listed. Comparing companies may not be correct if their historical price timelines are different.
+
+![image alt](https://github.com/aarern/Monte-Carlo-Simulation/blob/05c610ab02c2402a2d17a33fbdb4c0f0a8593278/sim1.png)
